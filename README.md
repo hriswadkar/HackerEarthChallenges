@@ -10,5 +10,6 @@ https://www.hackerearth.com/practice/
 Separate branch is created for each section
 
 ## Data Structure
-
+    This branch contains solution to Data Structure challenges
+    listed on Hacker Earth.
 ## Algorithms
